@@ -4,11 +4,9 @@ Share with the main script codes in the manuscript: *Genomic and Transcriptomic 
 
 ## WES data analysis
 
-### somatic mutation calling
-
-### germline mutation calling
+### mutation calling
+### CNV calling
 
 ## RNASeq data analysis
 
-### gene expression differential analysis
-### RNA fusion analysis
+
